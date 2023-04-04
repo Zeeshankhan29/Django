@@ -110,6 +110,8 @@ ENV/
 env.bak/
 venv.bak/
 
+C:\Zeeshan\Vscode_projects\Django\mainapp\mainapp\settings.py/
+
 # Spyder project settings
 .spyderproject
 .spyproject
