@@ -66,3 +66,9 @@ python manage.py startapp <app name>
 ```
 
 
+
+client = pymongo.MongoClient("mongodb+srv://mongodb:<password>@cluster0.gc1mb.mongodb.net/?retryWrites=true&w=majority")
+db = client.test
+
+
+
