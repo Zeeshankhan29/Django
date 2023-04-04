@@ -1,5 +1,4 @@
-# Django
-Working with Django framework
+# Django - Working with Django framework
 
 
 creating a virtual env and activate 
